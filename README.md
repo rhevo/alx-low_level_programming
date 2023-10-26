@@ -9,4 +9,4 @@ This a readme file
 0x06-pointers_arrays_strings      0x10-variadic_functions
 0x07-pointers_arrays_strings      0x12-singly_linked_lists
 0x08-recursion                    0x13-more_singly_linked_lists
-0x09-static_libraries
+0x09-static_libraries		  0x14. C - Bit manipulation
